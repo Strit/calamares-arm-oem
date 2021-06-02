@@ -3,7 +3,6 @@
 
 [Unit]
 Description=Delete OEM user
-ConditionPathExists=!/etc/oemskel
 After=multi-user.target
 Before=shutdown.target
 
