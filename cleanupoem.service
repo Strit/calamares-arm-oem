@@ -10,9 +10,6 @@ Before=shutdown.target
 Type=oneshot
 ExecStart=/usr/bin/resize-fs
 ExecStart=/usr/bin/userdel -f -r oem
-ExecStart=/usr/bin/rm -Rf /home/oem
-ExecStart=/usr/bin/rm /usr/lib/systemd/system/cleanupoem.service
-ExecStart=/usr/bin/rm /etc/systemd/system/multi-user.target.wants/cleanupoem.service
 RemainAfterExit=yes
 
 [Install]
