@@ -8,8 +8,7 @@ Before=shutdown.target
 
 [Service]
 Type=oneshot
-ExecStart=/usr/bin/resize-fs
-ExecStart=/usr/bin/userdel -f -r oem
+ExecStart=/usr/bin/resize-fs && /usr/bin/userdel -f -r oem && systemctl disable cleanupoem.service
 RemainAfterExit=yes
 
 [Install]
