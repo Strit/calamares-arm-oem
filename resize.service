@@ -1,0 +1,12 @@
+#  This file is part of calamares-arm-oem.
+#
+
+[Unit]
+Description=Resize filesystem and generate GPG keyrings
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/resize-fs
+
+[Install]
+WantedBy=default.target 

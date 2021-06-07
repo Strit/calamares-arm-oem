@@ -1,4 +1,4 @@
-#  This file is part of calamares-oem.
+#  This file is part of calamares-arm-oem.
 #
 
 [Unit]
@@ -9,7 +9,6 @@ Before=shutdown.target
 
 [Service]
 Type=oneshot
-ExecStart=/usr/bin/resize-fs
 ExecStart=/usr/bin/userdel -f -r oem
 ExecStart=/usr/bin/rm -Rf /home/oem
 ExecStart=/usr/bin/rm /usr/lib/systemd/system/cleanupoem.service
