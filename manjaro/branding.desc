@@ -104,5 +104,5 @@ style:
    sidebarText:          "#efefef"
    sidebarTextSelect:    "#4d915e"
    sidebarTextHighlight: "#1a1c1b"
-sidebar: none
-navigation: widget
+# sidebar: none
+# navigation: widget
