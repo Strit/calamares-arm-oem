@@ -53,7 +53,7 @@ Presentation
         }
     }
 
-    Slide {
+    /*Slide {
 
         Image {
             id: background2
@@ -70,7 +70,7 @@ Presentation
             width: 800
             horizontalAlignment: Text.Center
         }
-    }
+    }*/
 
     Slide {
 
@@ -91,7 +91,7 @@ Presentation
         }
     }
 
-    Slide {
+    /*Slide {
 
         Image {
             id: background4
@@ -108,7 +108,7 @@ Presentation
             width: 800
             horizontalAlignment: Text.Center
         }
-    }
+    }*/
 
     Slide {
 
