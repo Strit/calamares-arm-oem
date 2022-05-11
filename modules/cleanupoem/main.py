@@ -33,7 +33,7 @@ class CleanupOem:
         self.remove_pkg("calamares-arm-oem", "/etc/calamares/modules/welcome.conf")
         if exists('/usr/share/calamares'):
             target_env_call(['rm', '-R', '/usr/share/calamares'])
-        if exists('/etc/skel/.config/autostart/calamares.desktop'):
+        if exists('/home/oem/.config/autostart/calamares.desktop'):
             target_env_call(['rm', '-R', '/home/*/.config/autostart/calamares.desktop'])
 
         return None
