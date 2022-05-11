@@ -30,7 +30,7 @@ class CleanupOem:
     def run(self):
         if exists('/etc/sudoers.d/g_oem'):
             target_env_call(['rm', '/etc/sudoers.d/g_oem'])
-        self.remove_pkg("calamares-arm-oem", "/etc/calamares/modules/welcome.conf")
+        self.remove_pkg("calamares-arm-oem", "/etc/calamares/modules/welcome.conf", "/home/*/.config/autostart/calamares.desktop")
         if exists('/usr/share/calamares'):
             target_env_call(['rm', '-R', '/usr/share/calamares'])
 
