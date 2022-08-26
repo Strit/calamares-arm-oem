@@ -1,0 +1,13 @@
+strings:
+    productName:         Manjaro ARM Linux
+    shortProductName:    Manjaro ARM
+    version:             (rolling)
+    shortVersion:        (rolling)
+    versionedName:       Manjaro ARM Linux (rolling)
+    shortVersionedName:  Manjaro ARM (rolling)
+    bootloaderEntryName: Manjaro ARM
+    productUrl:          https://manjaro.org/
+    supportUrl:          https://forum.manjaro.org/
+    knownIssuesUrl:      https://gitlab.manjaro.org/
+    releaseNotesUrl:     https://blog.manjaro.org/
+    donateUrl:           https://manjaro.org/donate/ 

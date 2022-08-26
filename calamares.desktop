@@ -8,5 +8,4 @@ Exec=sudo -E calamares
 Icon=calamares
 Terminal=false
 StartupNotify=true
-Type=Application
 Categories=Qt;System;
