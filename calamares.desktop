@@ -8,5 +8,4 @@ Exec=sed -i s/Dark/Light/g /home/oem/.config/Kvantum/kvantum.kvconfig && sudo -E
 Icon=calamares
 Terminal=false
 StartupNotify=true
-Type=Application
 Categories=Qt;System;
