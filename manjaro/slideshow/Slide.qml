@@ -1,7 +1,8 @@
 import QtQuick 2.15
 
-Item {
+QtObject {
     required property string title
+    property string secondaryTitle
     required property string body
     property string footer
 }

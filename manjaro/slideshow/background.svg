@@ -3,31 +3,63 @@
 
 <svg
    width="800.00085"
-   height="439.99997"
-   viewBox="0 0 800.00094 439.99999"
+   height="880"
+   viewBox="0 0 800.00094 880.00004"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="background1.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="background.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs2"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient895"><stop
+         style="stop-color:#1abc9c;stop-opacity:0;"
+         offset="0"
+         id="stop891" /><stop
+         style="stop-color:#1abc9c;stop-opacity:1;"
+         offset="1"
+         id="stop893" /></linearGradient><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath290923"><rect
+         style="opacity:0.7;fill:#2f6b5a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.70918;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect290925"
+         width="309.65643"
+         height="170.30928"
+         x="-358.01489"
+         y="775.27844" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath292441"><rect
+         style="opacity:0.7;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.18763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect292443"
+         width="478.64374"
+         height="263.22327"
+         x="-510.89438"
+         y="765.67975" /></clipPath><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient897"
+       x1="13.87441"
+       y1="170.36914"
+       x2="13.87441"
+       y2="781.91968"
+       gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
      id="base"
      pagecolor="#525252"
      bordercolor="#404040"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="10"
-     inkscape:cy="131.42857"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="355.5737"
+     inkscape:cy="307.08637"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,61 +73,47 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#525252" /><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-13.87441,-610.36914)">
-    <rect
-       style="display:inline;fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.41201"
+     transform="translate(-13.87441,-170.36914)"><rect
+       style="display:inline;fill:url(#linearGradient897);fill-opacity:1;fill-rule:evenodd;stroke-width:0.58267"
        id="rect250371"
        width="800"
-       height="439.99997"
+       height="880"
        x="13.87523"
-       y="610.36914"
+       y="170.36914"
        inkscape:export-filename="/run/media/bogdan/WORK/Work2022/Manjaro2022/4Calamares/2022/slide5.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
+       inkscape:export-ydpi="96" /><path
        id="path287238"
        style="opacity:1;fill:#569e8f;fill-opacity:1;stroke:none;stroke-width:0.442273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 13.87523,730.29327 53.765199,-34.07878 64.588571,39.80441 259.69851,-14.76567 148.75299,-67.1822 129.87247,-4.50792 53.32883,11.68417 72.25841,48.3183 17.73503,-6.46425 V 1050.3691 H 13.87523 Z"
        sodipodi:nodetypes="cccccccccccc"
        inkscape:export-filename="/run/media/bogdan/WORK/Work2021/Manjaro2021/Wallpapers_renew/mountain.png"
        inkscape:export-xdpi="95.990692"
-       inkscape:export-ydpi="95.990692" />
-    <path
+       inkscape:export-ydpi="95.990692" /><path
        id="path287240"
        style="opacity:1;fill:#428476;fill-opacity:1;stroke:none;stroke-width:0.278593px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 318.15234,21.335938 -6.375,35.107421 33.32227,-27.544921 z m -33.61718,1.957031 -24.48243,51.285156 16.22071,0.0293 z M 247.70508,25.4375 223.89453,60.746094 246.9082,36.841797 Z m 105.75195,3.855469 2.95313,5.613281 0.0254,6.609375 4.00195,1.826172 20.45703,42.847656 21.73438,14.515627 -6.95703,-13.187502 -16.9336,-14.714844 -3.66797,-22.787109 1.08008,0.494141 -0.57227,0.0098 47.88477,42.738281 -19.80469,-30.201171 16.38672,7.474609 4.41992,7.376953 -5.55468,-2.492187 15.85546,25.253899 -0.34374,-6.144524 4.99023,8.328124 -12.11328,33.26757 15.24609,-28.03906 0.5332,-11.933587 18.375,3.630859 0.0117,-1.380859 -18.09179,-8.845704 0.008,-0.154296 8.73633,-5.046876 2.56054,-7.054687 -10.9375,4.042969 -72.25781,-48.31836 z m 49.17188,71.412111 6.95703,13.18554 14.77734,1.32813 z M 267.07422,40.679688 245.91211,54.544922 232.63867,76.619141 Z m 72.91797,3.222656 -13.32813,44.646484 24.69336,-7.742187 z m -624.75196,24.085937 7.6211,19.115235 -15.58203,-4.888672 -10.76368,26.503906 32.12696,-3.49414 -36.4375,49.88672 -0.92188,-0.16016 -22.82422,-1.66406 -6.98437,0.40625 v 268.44922 h 800 V 220.46094 l -62.03711,-22.61914 -64.5957,8.96484 -223.85157,-14.41797 -165.587886,-30.34961 -113.066404,-9.57422 -38.99805,-0.10351 -74.59375,7.36719 -25.00781,-4.34961 46.75781,-50.59571 39.33594,3.00977 z"
-       transform="translate(352.3998,628.22633)" />
-    <path
+       transform="translate(352.3998,628.22633)" /><path
        id="path287242"
        style="opacity:1;fill:#2f6b5a;fill-opacity:1;stroke:none;stroke-width:0.349527px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 813.87524,967.12639 665.97943,942.26861 601.38381,967.12639 463.3455,957.90524 381.43491,916.17674 268.36838,913.1349 229.37092,919.38449 86.448992,950.60632 54.605504,944.26915 H 31.781024 L 13.87523,946.15991 V 1050.3691 H 813.87524 Z"
        sodipodi:nodetypes="cccccccccccccc"
        inkscape:export-filename="/run/media/bogdan/WORK/Work2021/Manjaro2021/Wallpapers_renew/mountain.png"
        inkscape:export-xdpi="95.990692"
-       inkscape:export-ydpi="95.990692" />
-    <path
+       inkscape:export-ydpi="95.990692" /><path
        id="path287244"
        style="opacity:1;fill:#bbebe1;fill-opacity:1;stroke:none;stroke-width:0.442273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 573.63768,655.20388 -17.83295,12.99664 -1.02684,-7.45301 -14.09739,-6.67648 16.81831,-7.59808 113.05416,-4.87076 38.9932,10.00736 14.33563,9.63773 -18.02455,-3.72859 2.95337,5.61347 0.0257,6.61008 -11.33663,-12.61828 -26.94668,-7.56085 -33.61726,1.95663 -13.00846,5.92247 -0.48663,-5.137 -23.33635,1.35822 -11.6817,6.28436 0.29872,-5.62183 z"
        sodipodi:nodetypes="cccccccccccccccccccc"
        inkscape:export-filename="/run/media/bogdan/WORK/Work2021/Manjaro2021/Wallpapers_renew/mountain.png"
        inkscape:export-xdpi="95.990692"
-       inkscape:export-ydpi="95.990692" />
-  </g>
-</svg>
+       inkscape:export-ydpi="95.990692" /></g></svg>

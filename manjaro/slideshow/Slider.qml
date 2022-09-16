@@ -29,8 +29,8 @@ Item {
         Text {
             id: titleText
             font {
-                family: "Comfortaa"
-                capitalization: Font.AllLowercase
+                family: "Montserrat"
+                capitalization: Font.AllUppercase
                 weight: Font.DemiBold
                 pointSize: 18
             }
@@ -38,9 +38,19 @@ Item {
             text: slides[_currentSlideIndex].title
         }
         Text {
+            id: secondaryTitleText
+            font {
+                family: "Montserrat"
+                weight: Font.Light
+                pointSize: 12
+            }
+            color: "white"
+            text: slides[_currentSlideIndex].secondaryTitle ?? ""
+        }
+        Text {
             id: bodyText
             font {
-                family: "Comfortaa"
+                family: "Montserrat"
                 pointSize: 12
             }
             width: 400
@@ -52,7 +62,7 @@ Item {
         Text {
             id: footerText
             font {
-                family: "Comfortaa"
+                family: "Montserrat"
                 weight: Font.Light
                 pointSize: 12
             }
@@ -75,6 +85,12 @@ Item {
                 duration: transitionAnimation.duration
             }
             OpacityAnimator {
+                target: secondaryTitleText
+                from: 1.0
+                to: 0.0
+                duration: transitionAnimation.duration
+            }
+            OpacityAnimator {
                 target: bodyText
                 from: 1.0
                 to: 0.0
@@ -88,6 +104,12 @@ Item {
             }
             XAnimator {
                 target: titleText
+                from: 0
+                to: -30
+                duration: transitionAnimation.duration
+            }
+            XAnimator {
+                target: secondaryTitleText
                 from: 0
                 to: -30
                 duration: transitionAnimation.duration
@@ -118,6 +140,12 @@ Item {
                 duration: transitionAnimation.duration
             }
             OpacityAnimator {
+                target: secondaryTitleText
+                from: 0.0
+                to: 1.0
+                duration: transitionAnimation.duration
+            }
+            OpacityAnimator {
                 target: bodyText
                 from: 0.0
                 to: 1.0
@@ -131,6 +159,12 @@ Item {
             }
             XAnimator {
                 target: titleText
+                from: 30
+                to: 0
+                duration: transitionAnimation.duration
+            }
+            XAnimator {
+                target: secondaryTitleText
                 from: 30
                 to: 0
                 duration: transitionAnimation.duration
