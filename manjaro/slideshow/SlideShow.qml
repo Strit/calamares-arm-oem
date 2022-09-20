@@ -55,7 +55,7 @@ Item {
             },
             Slide {
                 title: qsTr("Control Panel")
-                body: qsTr("Settings manager, the same for every redaction you choose, will help you to install drivers, download missing translation and language packets, or update your kernel.")
+                body: qsTr("Settings manager, the same for whatever edition you choose, will help you to install drivers, download missing translation and language packets.")
             },
             Slide {
                 title: qsTr("Thank You")
